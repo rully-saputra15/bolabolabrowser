@@ -1,0 +1,7 @@
+{
+  "name": "bola",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
